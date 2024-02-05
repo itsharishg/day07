@@ -2,13 +2,15 @@
 **`Harish G - Batch B56WDTamil`**
 
 **`1.Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).`**
+    <h6>
     <ol type=a>
-    <li>Get all the countries from Asia continent /region using Filter function.</li>
-    <li>Get all the countries with a population of less than 2 lakhs using Filter function.</li>
-    <li>Print the following details name, capital, flag, using forEach function.</li>
-    <li>Print the total population of countries using reduce function.</li>
-    <li>Print the country that uses US dollars as currency.</li>
+    <li> **_Get all the countries from Asia continent /region using Filter function._**</li>
+    <li> **_Get all the countries with a population of less than 2 lakhs using Filter function._**</li>
+    <li> **_Print the following details name, capital, flag, using forEach function._**</li>
+    <li> **_Print the total population of countries using reduce function._**</li>
+    <li> **_Print the country that uses US dollars as currency._**</li>
     </ol>
+    </h6>
 
 **`Fetch data from the REST countries API`**
 ```javascript
